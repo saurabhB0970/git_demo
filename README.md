@@ -1,4 +1,4 @@
 # git_demo
-This is my first project
+This is my first repository
 <br>
 Author-Saurabh Bhosale
